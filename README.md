@@ -29,7 +29,7 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
-## Preview
+
 ![Image](Images/I1.png)
 
 ## Deployed
