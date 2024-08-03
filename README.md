@@ -30,7 +30,7 @@ pip install -r requirements.txt
 python main.py
 ```
 ## Preview
-![Screenshot](s1.png)
+![Image](Images/I1.png)
 
 ## Deployed
 
